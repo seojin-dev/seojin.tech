@@ -24,8 +24,6 @@
 📝 개발 블로그 연동
 ```
 
-````
-
 ## ⚡ Features
 
 - **반응형 디자인** - 모바일/태블릿/데스크톱 지원
@@ -84,6 +82,3 @@ MIT License
     <img src="https://img.shields.io/github/followers/seojin-dev?label=Follow&style=social" alt="GitHub followers"/>
   </a>
 </p>
-```
-
-````
